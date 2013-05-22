@@ -9,6 +9,19 @@ Eso fue hace unos años y ahora llegó el momento del siguiente paso. En los úl
 ### ¿Que queremos hacer?
 Queremos darle un poco de forma a SoPR. Lo que queremos es que como comunidad generemos una serie de documentos y acuerdos (en un proyecto open source como este) en los que se estipule como queremos colaborar y como vamos a lograr nuestro cometido de producir startups de tecnología en Puerto Rico.
 
+#### Principios
+- No vamos pedir permiso para lograr un cambio. Vamos a "hackiar" la economía del país.
+- Este esfuerzo es de la comunidad y no de un individuo o compañía.
+- Queremos crear procesos y esfuerzos que sean abiertos y transparentes en el mejor espíritu de la comunidad open source y free software.
+- El gobierno
+	- Es un visitante y no un residente de esta comunidad.
+ 	- Este esfuerzo no depende ni dependerá de ayuda gubernamental, fondos ni legislación alguna.
+	- Esto no es un esfuerzo de partido o administración alguna
+	- Nadie de ningún partido o administración tiene inherencia en la comunidad de forma oficial. Queda claro que hay personas en la comunidad que participan de la política y el gobierno y son bienvenidos pero su rol es el mismo que el de cualquier otro componente de la comunidad.
+	- Si algún partido o administración decide apoyar a la comunidad será bajo estrictas reglas que impondrá la comunidad y tendría un rol y protagonismo muy limitado.
+	- El envolvimiento de algún partido o administración siempre lleva consigo el riesgo de que nuestro esfuerzo genuino de comunidad se convierta en balón político o que estigmaticen a nuestro grupo como penepés, populares, pipiolos, pelús, turbas, etc. No lo vamos a permitir.
+- Algo más…?
+
 #### Una estrategia
 ![image](sopr-map.png)
 
@@ -52,5 +65,17 @@ Si la persona cumple con los requisitos (los que se decidan) esa persona recibe 
 ### ¿Para que vamos a hacer esto?
 Nuestra intención con SoPR es crear por lo menos 50 startups en los próximos 5 años, cada uno con un ingreso de 2 millones de dólares al año. Esto significa un crecimiento de 100 millones de dólares al año y por lo menos 100 empleos buenos. Claro demás está decir que esto también nos pone en carrera para que uno de esos 50 startups tenga una "salida" lo que significaría mucho más dinero en la economía.
 
+### ¿Qué documentos, acuerdos y herramientas necesitamos?
+- Hay que crear un documento que describa la composición y elección de un **core team**. Inicialmente pienso que ese equipo debe estar compuesto por miembros activos y reconocidos de la comunidad y estoy seguro que no debe tener muchos miembros para facilitar la toma de decisiones.
+- Hay que crear un documento que describa como someter **propuestas para iniciativas individuales** a ser evaluadas, aceptadas y promovidas por SoPR. El proceso tiene que ser 100% transparente y debe permitir y fomentar la diversidad de todo tipo.
+- Hay que crear un documento que describa un proceso para reemplazar cualquiera de estos documentos y un **proceso de votación o deliberación** para cambiar cualquier regla o decisión que la comunidad haya tomado.
+- Necesitamos definir un sistema para agregar y compartir data de nuestro progreso. Hay que definir cuales son las **métricas principales**.
+- Necesitamos un **mailing list** de toda la comunidad. Esta será nuestra herramienta principal de comunicación interna.
+- Necesitamos **rehacer el website** de startupsofpuertorico.com para tener toda esta información disponible e incluso proveer herramientas para automatizar los procesos y reglas que generaremos. Esto es un proyecto perfecto para el próximo hackathon.
+- Necesitamos un **calendario centralizado** de toda la comunidad para facilitara el tema de "scheduling" y tratar de evitar conflictos de fechas entre eventos similares.
+- Necesitamos un **directorio/marketplace** de programadores, diseñadores, músicos, ilustradores y todo talento relacionado a startups de tecnología. Esto puede servir como punto de encuentro para que estos puedan conseguir "gigs" para generar dinero en lo que lanzan sus productos (bootstrapping).
+- Necesitamos un **directorio de startups**.
+
+
 ### Fork, hack y envia tu pull request
-Esto es un proyecto open source y necesitamos tu ayuda. Puedes cambiar todo lo que creas que hay que cambiar y puedes someter tus sugerencias como issues. La idea es que terminemos con algo que sirva a los intereses de la comunidad y nos ayude a conseguir nuestras metas.
+Creo que queda claro que hay mucho por hacer así que necesitamos tu ayuda. Esto es un proyecto open source y necesitamos tu ayuda. Puedes cambiar todo lo que creas que hay que cambiar y puedes someter tus sugerencias como issues. La idea es que terminemos con algo que sirva a los intereses de la comunidad y nos ayude a conseguir nuestras metas.
