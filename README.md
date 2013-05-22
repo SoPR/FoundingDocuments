@@ -11,6 +11,7 @@ Queremos darle un poco de forma a SoPR. Lo que queremos es que como comunidad ge
 
 #### Una estrategia
 ![image](sopr-map.png)
+
 Lo primero es entender que para poder lograr lo que queremos es necesario ver un panorama amplio y no solo enfocarnos en pequeñas iniciativas. Para esto algunos miembros de la comunidad hemos desarrollado la primera versión del mapa de SoPR. Esto es un diagrama que muestra las 5 etapas en el proceso que va desde una persona interesada en temas de startups hasta esta misma persona lazar su propio startup.
 
 Lo bueno de nuestra comunidad es que ya hay personas que desinteresadamente están manejando con mucho éxito, algunas iniciativas en cada una de esas etapas. Necesitamos más iniciativas y necesitamos que las que ya existen optimicen para mover a las personas a la próxima etapa.
