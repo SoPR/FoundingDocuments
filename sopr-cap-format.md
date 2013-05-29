@@ -24,7 +24,7 @@ The following document proposes the format for the CAP document to be used by So
 
 A document describing a proposal for an action to be taken by the Starups of Puerto Rico Community. These actions could be anything from help in marketing a product to a community activity.
 
-## Why do we need of a CAP?
+## Why do we need a CAP?
 
 It is a simple, fair, and open way for community members to participate in the governance of SoPR. It gives all community members and guest a way to voice opinion and proppse direction of SoPR and it also serves as a historical account of member opinion and community action.
 
@@ -80,15 +80,15 @@ The document structure should follow the following guide lines:
 
         -   Version - this should follow the *mayor*.*minor*.*bug/fix* format. E.g. 1.0.0
 
-    2.  Document Purpose
+    2.  Purpose
 
         -   A brife purpose of the CAP
 
-    3.  Document Summary
+    3.  Summary
 
         -   A brife summary (200 words maximum) of the document.
 
-    4.  Document Body
+    4.  Main
 
         -   Body of document. As stated above the prefered format is markdown.
 
