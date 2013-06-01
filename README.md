@@ -75,8 +75,8 @@ Nuestra intención con SoPR es crear por lo menos 50 startups en los próximos 5
 - Necesitamos un **calendario centralizado** de toda la comunidad para facilitara el tema de "scheduling" y tratar de evitar conflictos de fechas entre eventos similares.
 - Necesitamos un **directorio/marketplace** de programadores, diseñadores, músicos, ilustradores y todo talento relacionado a startups de tecnología. Esto puede servir como punto de encuentro para que estos puedan conseguir "gigs" para generar dinero en lo que lanzan sus productos (bootstrapping).
 - Necesitamos un **directorio de startups**.
-- Necesitamos un directorio de recursos disponibles como por ejemplo: projectos open source abiertos por la comunidad, datasets relevantes para la comunidad y APIs proveídos por entidades gubernamentales y privadas en la isla.
-- Necesitamos un lugar central donde hacer preguntas y obtener respuestas (e.g.: sopr.stackexchange.com) [issue](https://github.com/SoPR/FoundingDocuments/issues/3).
+- Necesitamos un **directorio de recursos disponibles** como por ejemplo: projectos open source abiertos por la comunidad, datasets relevantes para la comunidad y APIs proveídos por entidades gubernamentales y privadas en la isla.
+- Necesitamos un **lugar central donde hacer preguntas y obtener respuestas** (e.g.: sopr.stackexchange.com) ([ver progreso](https://github.com/SoPR/FoundingDocuments/issues/3)). 
 
 ### ¿Cómo empezamos?
 Debemos tener un plan concreto para cumplir con estas necesidades. Para comenzar, haremos lo siguiente:
