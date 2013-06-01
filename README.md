@@ -80,8 +80,10 @@ Nuestra intención con SoPR es crear por lo menos 50 startups en los próximos 5
 
 ### ¿Cómo empezamos?
 Debemos tener un plan concreto para cumplir con estas necesidades. Para comenzar, haremos lo siguiente:
+
 1. Visita [la sección de "issues" de este repositorio, filtrado por el label de necesidades](https://github.com/SoPR/FoundingDocuments/issues?labels=necesidades&page=1&state=open). 
 2. Si no hay un "issue" abierto con la necesidad que deseas ayudar a realizar, crea uno nuevo. Recuerda añadir el "label" de "necesidad". 
 3. Vuelve a este documento y añade un enlace al "issue" a la necesidad correspondiente en la sección de _¿Qué documentos, acuerdos y herramientas necesitamos?_ de este documento. 
+
 ### Fork, hack y envia tu pull request
 Creo que queda claro que hay mucho por hacer así que necesitamos tu ayuda. Esto es un proyecto open source y necesitamos tu ayuda. Puedes cambiar todo lo que creas que hay que cambiar y puedes someter tus sugerencias como issues. La idea es que terminemos con algo que sirva a los intereses de la comunidad y nos ayude a conseguir nuestras metas.
