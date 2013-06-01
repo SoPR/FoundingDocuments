@@ -68,6 +68,9 @@ Nuestra intención con SoPR es crear por lo menos 50 startups en los próximos 5
 ### ¿Qué documentos, acuerdos y herramientas necesitamos?
 - Hay que crear un documento que describa la composición y elección de un **core team**. Inicialmente pienso que ese equipo debe estar compuesto por miembros activos y reconocidos de la comunidad y estoy seguro que no debe tener muchos miembros para facilitar la toma de decisiones.
 - Hay que crear un documento que describa como someter **propuestas para iniciativas individuales** a ser evaluadas, aceptadas y promovidas por SoPR. El proceso tiene que ser 100% transparente y debe permitir y fomentar la diversidad de todo tipo.
+	
+	- Froilan Irrizary ya comenzó a trabajar en los [CAP (Community Action Proposal)](sopr-cap-format.md) en esto y ha hecho una propuesta inicial que necesita revisión y el apoyo general de la comunidad.
+
 - Hay que crear un documento que describa un proceso para reemplazar cualquiera de estos documentos y un **proceso de votación o deliberación** para cambiar cualquier regla o decisión que la comunidad haya tomado.
 - Necesitamos definir un sistema para agregar y compartir data de nuestro progreso. Hay que definir cuales son las **métricas principales**.
 - Necesitamos un **mailing list** de toda la comunidad. Esta será nuestra herramienta principal de comunicación interna.
