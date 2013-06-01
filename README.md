@@ -1,6 +1,6 @@
 # SoPR Founding Documents Project
 
-Version 0.0.1
+Version 0.0.2
 
 Hace unos años empezamos a organizar eventos bajo el nombre **Startups of Puerto Rico** (SoPR). En ese momento la intención era tener un nombre que sonara oficial para poder darle forma a la comunicación pública de estos eventos. Creamos un website para comunicar lo que intentábamos hacer y para que las personas que se identificaran con nuestra comunidad se unieran y participaran de los eventos.
 
