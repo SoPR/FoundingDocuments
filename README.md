@@ -1,6 +1,6 @@
 # SoPR Founding Documents Project
 
-Version 0.0.1
+Version 0.0.2
 
 Hace unos años empezamos a organizar eventos bajo el nombre **Startups of Puerto Rico** (SoPR). En ese momento la intención era tener un nombre que sonara oficial para poder darle forma a la comunicación pública de estos eventos. Creamos un website para comunicar lo que intentábamos hacer y para que las personas que se identificaran con nuestra comunidad se unieran y participaran de los eventos.
 
@@ -73,12 +73,20 @@ Nuestra intención con SoPR es crear por lo menos 50 startups en los próximos 5
 
 - Hay que crear un documento que describa un proceso para reemplazar cualquiera de estos documentos y un **proceso de votación o deliberación** para cambiar cualquier regla o decisión que la comunidad haya tomado.
 - Necesitamos definir un sistema para agregar y compartir data de nuestro progreso. Hay que definir cuales son las **métricas principales**.
-- Necesitamos un **mailing list** de toda la comunidad. Esta será nuestra herramienta principal de comunicación interna.
+- Necesitamos un **mailing list** de toda la comunidad. Esta será nuestra herramienta principal de comunicación interna para asuntos generales y anuncios.
 - Necesitamos **rehacer el website** de startupsofpuertorico.com para tener toda esta información disponible e incluso proveer herramientas para automatizar los procesos y reglas que generaremos. Esto es un proyecto perfecto para el próximo hackathon.
 - Necesitamos un **calendario centralizado** de toda la comunidad para facilitara el tema de "scheduling" y tratar de evitar conflictos de fechas entre eventos similares.
 - Necesitamos un **directorio/marketplace** de programadores, diseñadores, músicos, ilustradores y todo talento relacionado a startups de tecnología. Esto puede servir como punto de encuentro para que estos puedan conseguir "gigs" para generar dinero en lo que lanzan sus productos (bootstrapping).
 - Necesitamos un **directorio de startups**.
+- Necesitamos un **directorio de recursos disponibles** como por ejemplo: projectos open source abiertos por la comunidad, datasets relevantes para la comunidad y APIs proveídos por entidades gubernamentales y privadas en la isla.
+- Necesitamos un **lugar central donde hacer preguntas y obtener respuestas** (e.g.: sopr.stackexchange.com) ([ver progreso](https://github.com/SoPR/FoundingDocuments/issues/3)). 
 
+### ¿Cómo empezamos?
+Debemos tener un plan concreto para cumplir con estas necesidades. Para comenzar, haremos lo siguiente:
+
+1. Visita [la sección de "issues" de este repositorio, filtrado por el label de necesidades](https://github.com/SoPR/FoundingDocuments/issues?labels=necesidades&page=1&state=open). 
+2. Si no hay un "issue" abierto con la necesidad que deseas ayudar a realizar, crea uno nuevo. Recuerda añadir el "label" de "necesidad". 
+3. Vuelve a este documento y añade un enlace al "issue" a la necesidad correspondiente en la sección de _¿Qué documentos, acuerdos y herramientas necesitamos?_ de este documento. 
 
 ### Fork, hack y envia tu pull request
 Creo que queda claro que hay mucho por hacer así que necesitamos tu ayuda. Esto es un proyecto open source y necesitamos tu ayuda. Puedes cambiar todo lo que creas que hay que cambiar y puedes someter tus sugerencias como issues. La idea es que terminemos con algo que sirva a los intereses de la comunidad y nos ayude a conseguir nuestras metas.
